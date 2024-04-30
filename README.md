@@ -65,7 +65,9 @@ else begin
 ```
 
 **RTL LOGIC FOR FLIPFLOPS**
+
 ![Screenshot 2024-04-30 084808](https://github.com/saravidhya/SR-FLIPFLOP-USING-CASE/assets/87062069/1ce02999-2e54-4132-bdad-8fba046e6652)
+
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
